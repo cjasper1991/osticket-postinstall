@@ -55,4 +55,5 @@ Using the Admin panel, go to the agents tab and select add department. Different
 <img src=https://i.imgur.com/a22zarN.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
 Using the Admin panel, go to agents and select add teams. Teams allows different agents to be assigned certain tickets.
 <img src=https://i.imgur.com/N2wZYLs.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 Using the Admin Panel, go to Manage tab, and select SLA. Used to set the Severity of each ticket in the system.
